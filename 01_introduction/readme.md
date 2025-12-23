@@ -130,3 +130,58 @@
         System.out.println("Execution completed");
     }
     ```
+
+## 2. OOP Concepts.java
+- What is OOP ?
+- Difference between Procedural and OOP ? 
+- Why use OOP ?
+    - Modularity
+    - Reusability
+    - Scalability
+    - Security
+- Why is OOP better for large scale applications ?
+
+## 3. Classes and Objects
+- What is a Class ?
+    - Logical Representation
+    - Blueprint
+- What is an Object ?
+    - Instance of a class
+    - Physical Representation
+- What is attributes and behaviour ?
+    - Attributes - properties/characteristics (variables)
+    - Behaviour - methods/functions (functions)
+- How are objects created and distroyed in memory ?
+    - Stack and Heap Memory
+        - Stack - Primitive data types and references
+        - Heap - Objects
+    - Creation - new keyword
+    - Destruction - Garbage Collector
+
+## 4. Attributes and Methods
+- What are attributes and methods ?
+    - Attributes - properties/characteristics (variables)
+    - Methods - behaviour/functions (functions)
+- How Attributes and methods works together ?
+    - getters and setters
+
+## 5. Constructors
+- What is a constructor ?
+    - Special method to initialize objects
+- Key features of constructors
+    - Same name as class
+    -  No return type = void
+    - Called automatically during object creation
+
+- Purpose of constructors
+    - create and initialize objects
+    - reuse code
+    - set some default values
+- Types of constructors
+    - non-parameterized constructor (default constructor)
+    - Parameterized constructor
+    - Copy constructor (not directly supported in Java, but can be mimicked)
+- can a constructor call another constructor ?
+    - Yes, using this() keyword
+- can a constructor be overloaded ?
+    - Yes, by defining multiple constructors with different parameter lists
