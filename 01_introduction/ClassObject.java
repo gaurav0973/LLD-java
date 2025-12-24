@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Employee {
     private int salary;
     public String employeeName;
