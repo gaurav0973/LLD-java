@@ -16,3 +16,11 @@
 - Interfaces
 - Static Keyword
 - Inner Class and its types
+
+## 04_relationships
+- Association (The "Interaction")
+- Aggregation (The "Borrowing")
+- Composition (The "Ownership")
+- Object Cloning
+    - Shallow Cloning
+    - Deep Cloning
