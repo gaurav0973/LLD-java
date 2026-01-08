@@ -1,0 +1,12 @@
+- What is LLD 
+    - detailing the actual classes/objects/relationships that will be used to implement a system
+    - focus more on implementation details 
+- Why LLD
+    - Awoid rework
+    - Scalibility
+    - Encourages best practices
+
+- Software Design Principles that cannot be avoided
+    - DRY = Don't repeat yourself
+    - KISS = Keep it simple stupid => choose the simplest solution that works
+    - YAGNI = You aren't gonna need it => don't add functionality until it's necessary
