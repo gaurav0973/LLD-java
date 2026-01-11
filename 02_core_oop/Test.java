@@ -12,7 +12,7 @@ class Child extends Parent {
 public class Test {
     public static void main(String[] args) {
         Parent obj = new Child();
-        obj.show();  // What does this print?
+        // obj.show();  // What does this print?
         obj.print(); // What does this print?
     }
 }
