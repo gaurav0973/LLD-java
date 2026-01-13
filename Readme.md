@@ -30,7 +30,22 @@
     - Exception Handling
     - File Handling 
 
-## Software design Principle
+## 06_Software design Principles
     - DRY
     - KISS
     - YAGNI
+
+## 07_SOLID Principles
+    - S = Single Responsibility Principle
+    - O = Open Closed Principle
+    - L = Liskov Substitution Principle
+    - I = Interface Segregation Principle
+    - D = Dependency Inversion Principle
+
+## 08_Design Patterns (23)
+    - Creational Patterns(5)
+    - Structural Patterns (7)
+    - Behavioral Patterns (11)
+
+## 09_Creational Patterns
+    - Singleton Pattern
