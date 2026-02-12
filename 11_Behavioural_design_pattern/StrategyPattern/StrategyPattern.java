@@ -25,7 +25,6 @@ class CarStrategy implements RouteStrategy {
         System.out.println("   - Route: " + A + " to " + B);
     }
 }
-
 class WalkStrategy implements RouteStrategy {
     @Override
     public void buildRoute(String A, String B) {
@@ -34,7 +33,6 @@ class WalkStrategy implements RouteStrategy {
         System.out.println("   - Route: " + A + " to " + B);
     }
 }
-
 class BusStrategy implements RouteStrategy {
     @Override
     public void buildRoute(String A, String B) {
